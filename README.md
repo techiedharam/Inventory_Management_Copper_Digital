@@ -1,5 +1,8 @@
 # Inventory Management System Copper Digital
 
+![InventoryManagementSystemCopperDigital_page-0001](https://github.com/user-attachments/assets/9fad3f0b-1371-4d91-bdec-2b51d265d203)
+
+
 This project is an **Inventory Management System** that enables users to browse a list of products and manage their purchases using a shopping cart. The application is built with React, utilizing **Context API** and **Reducer Function** to handle global state management and cart functionality effectively.
 
 ## Features
